@@ -31,6 +31,13 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
   </p>
   &nbsp; 
 
+![MaindMapHypoth](https://user-images.githubusercontent.com/94291995/162535070-26d8cca0-8134-4fbc-aa8d-79323dc9a454.png)
+
+
+
+
+![CrossValidation](https://user-images.githubusercontent.com/94291995/162535013-061de674-ad83-4a34-825b-2be54587fc22.png)
+
 
 
 ![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
