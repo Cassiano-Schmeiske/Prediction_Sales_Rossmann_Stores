@@ -28,3 +28,7 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
     <img width="75%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/161871338-a03746fb-ff49-4aff-b91b-2a8f3326bbd7.png">
   </p>
   &nbsp; 
+
+
+
+![rossmann](https://user-images.githubusercontent.com/94291995/162493496-ff9bdc6f-5956-4dbf-8120-1aacf931b41b.gif)
