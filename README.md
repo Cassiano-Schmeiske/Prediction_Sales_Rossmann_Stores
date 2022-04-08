@@ -5,13 +5,9 @@
 </div>
 
 
-This project was developed during the course ds_em_production' - By Meigarom Lopes, "Data Science Community". Solution for a Kaggle competition problem: https://www.kaggle.com/c/rossmann-store-sales
+Este projeto foi desenvolvido durante o curso ds_em_produção'-By Meigarom Lopes, "ComunidadeDS". Solução para um problema de competição do Kaggle: https://www.kaggle.com/c/rossmann-store-sales
 
-The following project studies   case to predict sales volume for Rossman drug store.
-
-Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
-
-An overview of the training set shows that there are ~1,000,000 rows and 18 columns, ranging from 2013 till 2015.
+A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada. Nesse sentido, o CFO pede a previsão de todas as lojas de forma antecipe a venda em até 6 semanas.
 
 ----------------------------
 
