@@ -5,7 +5,7 @@
 </div>
 
 
-This repository contains the solution for a Kaggle competition problem: https://www.kaggle.com/c/rossmann-store-sales
+This project was developed during the course ds_em_production' - By Meigarom Lopes, "Data Science Community". Solution for a Kaggle competition problem: https://www.kaggle.com/c/rossmann-store-sales
 
 The following project studies   case to predict sales volume for Rossman drug store.
 
@@ -14,7 +14,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 An overview of the training set shows that there are ~1,000,000 rows and 18 columns, ranging from 2013 till 2015.
 
 ----------------------------
-This project was developed during the course ds_em_production' - By Meigarom Lopes, "Data Science Community".
+
 
 **Project Development Method**
 
