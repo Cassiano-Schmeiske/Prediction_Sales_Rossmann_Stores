@@ -9,9 +9,14 @@ Este projeto foi desenvolvido durante o curso DS_em_Produção'-By Meigarom Lope
 
 A Rossmann opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode ser bastante variada. Nesse sentido, o CFO pede a previsão de todas as lojas de forma antecipe a venda em até 6 semanas.
 
+
+
 # Project Development Method
 
 The project was developed based on the CRISP-DS (Cross-Industry Standard Process - Data Science, a.k.a. CRISP-DM) project management method, with the following steps:
+
+<img src="https://user-images.githubusercontent.com/94291995/161871338-a03746fb-ff49-4aff-b91b-2a8f3326bbd7.png" alt="health insurance logo" title="Health Insurance" align="right" height="350" class="center"/>
+
 
 - Business Understanding;
 - Data Collection;
@@ -22,12 +27,7 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 - Model and Business performance evaluation / Results;
 - Model deployment.
 
-&nbsp; 
-  <p align="center">
-    <img width="60%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/161871338-a03746fb-ff49-4aff-b91b-2a8f3326bbd7.png">
-  </p>
-  &nbsp; 
-  
+
   ## Top Three Data Insigths
   
 **H1. Lojas com maior sortimentos deveriam vender mais: False**
