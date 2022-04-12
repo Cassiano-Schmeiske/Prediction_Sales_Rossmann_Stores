@@ -30,7 +30,13 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 
   ## Top Three Data Insigths
   
-**H1. Lojas com maior sortimentos deveriam vender mais: False**
+**H1. Lojas com maior sortimentos deveriam vender mais: True**
+
+|assortment|store|sales|
+|---------|------|------------|
+|basic	  | 593  |  50.155959 |  
+|extended	| 513  |  48.636070 |  
+|extra	  | 9	   |   1.207971 |  
 
 ![sortimentos](https://user-images.githubusercontent.com/94291995/162541917-b8d7d7d5-e597-4de5-900c-852e53d2683e.png)
 
