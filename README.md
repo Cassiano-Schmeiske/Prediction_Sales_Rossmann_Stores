@@ -129,19 +129,14 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 
 ![Machine Learning Performance](https://user-images.githubusercontent.com/94291995/162546702-575a085d-ffad-43f9-b055-36df061e0d62.png)
 
-# How to get the prediction
-
-* Send the store number (one each time) and get the sales prediction for the next six weeks.
-* If the store number does not exist, it will get as an answer the message: "Store Not Available".
-
-
-![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
-
 # Deploy Model To Production
 
- * Back end: Heroku
+ * Back end: Heroku -> Modelo final treinado / API BOT
  * Front end web: Telegram
- * Database: Kaggle
+
+Demonstração do aplicativo:
+
+![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
 
 # Conclusion
 
