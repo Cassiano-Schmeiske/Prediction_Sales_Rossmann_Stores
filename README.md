@@ -145,7 +145,7 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 
 # Conclusion
 
-Considering the first CRISP-DS cycle, the final model presented a usefull performance, considering the MAPE (Mean Absolute Percentage Error) of 0.11. However, for some stores, higher MAPE values were observed, such as 0.37 and 0.52, but this is a point that could be improved in the next CRISP cycle.
+Considerando o primeiro ciclo CRISP-DS, o modelo final apresentou um desempenho útil, considerando o MAPE (Mean Absolute Percentage Error) de 0,11. No entanto, para algumas lojas, foram observados valores MAPE maiores, como 0,37 e 0,52, mas este é um ponto que pode ser melhorado no próximo ciclo CRISP.
 
 # Technologies
 
