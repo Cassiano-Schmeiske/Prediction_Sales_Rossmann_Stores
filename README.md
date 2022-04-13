@@ -145,3 +145,4 @@ Considering the first CRISP-DS cycle, the final model presented a usefull perfor
 
 * Jupyter notebook
 * Python
+
