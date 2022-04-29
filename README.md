@@ -134,7 +134,7 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
  * Back end: Heroku -> Modelo final treinado / API BOT
  * Front end web: Telegram
 
-Demonstração do aplicativo:
+Demonstração do aplicativo: https://t.me/cs_rossmann_bot
 
 ![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
 
