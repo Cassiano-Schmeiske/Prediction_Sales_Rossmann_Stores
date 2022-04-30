@@ -139,7 +139,7 @@ Access telgeram bot [here](https://t.me/cs_rossmann_bot)<br>
 
 ![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
  
- Id:@cs_rossmann_bot
+ ID: @cs_rossmann_bot
  
 # Conclusion
 
