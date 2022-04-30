@@ -131,8 +131,13 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
 
 # Deploy Model To Production
 
- * Back end: Heroku -> Modelo final treinado / API BOT
- * Front end web: Telegram
+O modelo de aprendizado de máquina que prevê vendas para as lojas Rossmann foi implantado e colocado em produção usando a plataforma Heroku, uma PaaS que permite aos desenvolvedores criar, executar e operar aplicativos inteiramente na nuvem.
+
+No final, as partes interessadas da Rossmann poderão acessar previsões com um Telegram Bot em seus smartphones.
+
+Abaixo, a arquitetura de produção utilizada nesse projeto:
+
+![production_chart](https://user-images.githubusercontent.com/94291995/166083027-b42519bb-02a6-49b5-a7f3-58ef4798c0d8.png)
 
 ## Demonstração do aplicativo: 
 Access telgeram bot [here](https://t.me/cs_rossmann_bot)<br>
