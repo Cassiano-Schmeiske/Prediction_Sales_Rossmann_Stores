@@ -134,13 +134,13 @@ The project was developed based on the CRISP-DS (Cross-Industry Standard Process
  * Back end: Heroku -> Modelo final treinado / API BOT
  * Front end web: Telegram
 
-
-
 ## Demonstração do aplicativo: 
 Access telgeram bot [here](https://t.me/cs_rossmann_bot)<br>
 
 ![RossmannBot](https://user-images.githubusercontent.com/94291995/162533744-854eb109-0c71-41f3-8519-4d7dd0cc9d92.gif)
-
+ 
+ Id:@cs_rossmann_bot
+ 
 # Conclusion
 
 Considerando o primeiro ciclo CRISP-DS, o modelo final apresentou um desempenho útil, considerando o MAPE (Mean Absolute Percentage Error) de 0,11. No entanto, para algumas lojas, foram observados valores MAPE maiores, como 0,37 e 0,52, mas este é um ponto que pode ser melhorado no próximo ciclo CRISP.
