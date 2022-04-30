@@ -137,7 +137,11 @@ No final, as partes interessadas da Rossmann poderão acessar previsões com um 
 
 Abaixo, a arquitetura de produção utilizada nesse projeto:
 
-![production_chart](https://user-images.githubusercontent.com/94291995/166083027-b42519bb-02a6-49b5-a7f3-58ef4798c0d8.png)
+&nbsp; 
+  <p align="center">
+    <img width="75%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/166083027-b42519bb-02a6-49b5-a7f3-58ef4798c0d8.png">
+  </p>
+  &nbsp; 
 
 ## Demonstração do aplicativo: 
 Access telgeram bot [here](https://t.me/cs_rossmann_bot)<br>
