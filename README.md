@@ -139,7 +139,7 @@ Abaixo, a arquitetura de produção utilizada nesse projeto:
 
 &nbsp; 
   <p align="center">
-    <img width="75%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/166083027-b42519bb-02a6-49b5-a7f3-58ef4798c0d8.png">
+    <img width="55%" alt="drawing" src="https://user-images.githubusercontent.com/94291995/166083027-b42519bb-02a6-49b5-a7f3-58ef4798c0d8.png">
   </p>
   &nbsp; 
 
